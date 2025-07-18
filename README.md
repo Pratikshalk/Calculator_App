@@ -7,7 +7,8 @@ A basic calculator built using Java in Android Studio.
 - Clean UI
 
 ## Screenshots
-*(Add screenshots here)*
+
+
 
 ## How to Run
 1. Clone this repo
